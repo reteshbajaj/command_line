@@ -1,0 +1,4 @@
+## GITHUB Practice test
+# mv command on command line (unix) allows a file to be moved
+# mv FILE NEW_LOCATION is typically how it operates
+# HOWEVER - it can also be used to change the name of the file and the original is deleted in the process
