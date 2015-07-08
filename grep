@@ -1,0 +1,3 @@
+# grep command looks within files for words: grep word file (2 parameters)
+USED with pipes to redirect outputs
+it doesn't use strings but regular expressions
